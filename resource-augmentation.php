@@ -38,21 +38,17 @@
                     <div class="col-70 order-0 order-lg-2">
                         <div class="services__details-top">
                             <div class="row gutter-24 align-items-center">
-                                <div class="col-49">
-                                    <div class="services__details-thumb services__details-thumb-two">
-                                        <img src="assets/img/services/services_details02.jpg" alt="Apexa" />
-                                    </div>
-                                </div>
-                                <div class="col-51">
+
+                                <div class="">
                                     <div class="services__details-top-content">
-                                        <h2 class="title">Investment Business Planning</h2>
-                                        <p>when an unknown printer took a galley of type and scrambled it to make a type specimen bookhas survived not only five centuries.but also the leap into electronic typesetting, remaining.</p>
+                                        <h2 class="title">Resource Augmentation Services</h2>
+                                        <p>We provide reliable resource augmentation services to help organizations quickly access skilled professionals across technology, operations, and specialized domains. Whether you need short-term support or long-term team extension, our talent solutions enable you to scale faster, reduce hiring overheads, and maintain operational continuity without compromising on quality.</p>
                                         <div class="about__list-box about__list-box-three">
                                             <ul class="list-wrap">
-                                                <li><i class="flaticon-arrow-button"></i>Business Growth</li>
-                                                <li><i class="flaticon-arrow-button"></i>100% Secure</li>
-                                                <li><i class="flaticon-arrow-button"></i>Research</li>
-                                                <li><i class="flaticon-arrow-button"></i>100% Secure</li>
+                                                <li><i class="flaticon-arrow-button"></i>On-Demand Skilled Resources</li>
+                                                <li><i class="flaticon-arrow-button"></i>Faster Team Scaling</li>
+                                                <li><i class="flaticon-arrow-button"></i>Trusted & Verified Talent</li>
+                                                <li><i class="flaticon-arrow-button"></i>Cost-Effective Hiring Model</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -60,24 +56,23 @@
                             </div>
                         </div>
                         <div class="services__details-content">
-                            <p>eed a little help from our friends from time to time. Although we offer the one-stop convenience of annery integrated range of legal, financial services under one roof, there are occasions when our clients areaneed specia- list advice beyond the scope of our own expertise. That’s why we’ve developed close working relationships with a number of strategic partner.</p>
                             <div class="services__details-inner-two">
                                 <div class="row gutter-24 align-items-center">
                                     <div class="col-48 order-0 order-md-2">
                                         <div class="services__details-inner-img">
-                                            <img src="assets/img/services/services_details_inner02.jpg" alt="Apexa" />
+                                            <img src="assets/img/augmentation.png" alt="Apexa" />
                                         </div>
                                     </div>
                                     <div class="col-52">
                                         <div class="services__details-inner-content-two">
-                                            <h4 class="title">Let’s Enroll Our Business Growth Management</h4>
-                                            <p>eed a little help from our friends from time to time. Although we offer the one-stop convenience of annery integrated range of legal, financial services under one roof, there are occasions when our clients areaneed specia- list advice beyond the scope of our own expertise. That’s why we’ve developed.</p>
+                                            <h4 class="title">Extend Your Team with the Right Talent</h4>
+                                            <p>We help businesses bridge skill gaps by providing pre-vetted professionals who seamlessly integrate with your existing teams. From developers and testers to project managers and support staff, our resource augmentation model gives you the flexibility to scale up or down based on project demands—while staying focused on your core business goals.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <h2 class="title-two">3 Simple Steps to Process</h2>
-                            <p>when an unknown printer took a galley of type and scrambled it to make a type specimen bookhas survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchan galley of type and scrambled it to make a type specimen book.</p>
+                            <h2 class="title-two">Our 3-Step Resource Augmentation Process</h2>
+                            <p>Our streamlined process ensures quick onboarding, the right skill fit, and continuous performance support.</p>
                             <div class="services__details-list-two">
                                 <div class="row gutter-24">
                                     <div class="col-md-4">
@@ -86,8 +81,8 @@
                                                 <i class="flaticon-report"></i>
                                             </div>
                                             <div class="content">
-                                                <h4 class="title">Business Ratings</h4>
-                                                <p>We successfully cope year withtks arying mplexity</p>
+                                                <h4 class="title">Requirement Analysis</h4>
+                                                <p>We understand your project needs, required skills, experience levels, and engagement model.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -97,8 +92,8 @@
                                                 <i class="flaticon-email"></i>
                                             </div>
                                             <div class="content">
-                                                <h4 class="title">Digital Marketing</h4>
-                                                <p>We successfully cope year withtks arying mplexity</p>
+                                                <h4 class="title">Talent Matching & Onboarding</h4>
+                                                <p>We shortlist, screen, and deploy the right resources to your team with minimal turnaround time.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -108,108 +103,24 @@
                                                 <i class="flaticon-life-insurance"></i>
                                             </div>
                                             <div class="content">
-                                                <h4 class="title">Extend Coverage</h4>
-                                                <p>We successfully cope year withtks arying mplexity</p>
+                                                <h4 class="title">Ongoing Support & Performance Management</h4>
+                                                <p>We provide continuous coordination, performance tracking, and replacement support if required.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <p class="last-info">when an unknown printer took a galley of type and scrambled it to make a type specimen bookhas survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchan galley of type and scrambled it to make a type specimen book.</p>
                         </div>
                     </div>
-                    <div class="col-30">
-                        <aside class="services__sidebar">
-                            <div class="sidebar__widget sidebar__widget-three">
-                                <div class="sidebar__cat-list-two sidebar__cat-list-three">
-                                    <ul class="list-wrap">
-                                        <li>
-                                            <a href="services-details.html">Investment Planning <i class="flaticon-arrow-button"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="services-details.html">Strategic marketing <i class="flaticon-arrow-button"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="services-details.html">Insights & analytics <i class="flaticon-arrow-button"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="services-details.html">Business consulting <i class="flaticon-arrow-button"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="services-details.html">Financial Advisory <i class="flaticon-arrow-button"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="services-details.html">Market Research <i class="flaticon-arrow-button"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sidebar__widget sidebar__widget-two">
-                                <div class="sidebar__contact sidebar__contact-two" data-background="assets/img/services/sidebar_contact_bg.jpg">
-                                    <h2 class="title">If You Need Any Help Contact With Us</h2>
-                                    <a href="tel:0123456789" class="btn"><i class="flaticon-phone-call"></i>+91 705 2101 786</a>
-                                </div>
-                            </div>
-                            <div class="sidebar__widget sidebar__widget-three">
-                                <h4 class="sidebar__widget-title">Brochure</h4>
-                                <div class="sidebar__brochure sidebar__brochure-two">
-                                    <p>when an unknown printer took ga lley offer typey anddey.</p>
-                                    <a href="assets/img/services/services_details01.jpg" target="_blank" download><i class="far fa-file-pdf"></i>PDF. Download</a>
-                                    <a href="assets/img/services/services_details01.jpg" target="_blank" download><i class="far fa-file-alt"></i>DOC. Download</a>
-                                </div>
-                            </div>
-                        </aside>
-                    </div>
+                    <?php include("include/service_left_side.php"); ?>
                 </div>
             </div>
         </div>
     </section>
     <!-- services-details-area-end -->
-    <!-- brand-area -->
-    <div class="brand__area-six">
-        <div class="container">
-            <div class="swiper-container brand-active">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img01.png" alt="Apexa" />
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img02.png" alt="Apexa" />
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img03.png" alt="Apexa" />
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img04.png" alt="Apexa" />
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img05.png" alt="Apexa" />
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img06.png" alt="Apexa" />
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-item">
-                            <img src="assets/img/brand/brand_img03.png" alt="Apexa" />
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- brand-area -->
+    <!-- call-back-area -->
+    <?php include("include/request_a_call.php"); ?>
+    <!-- call-back-area-end -->
 </main>
 
 <?php include("include/footer.php"); ?>

@@ -6,13 +6,13 @@
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="tg-header__top-info left-side list-wrap">
-                        <li><i class="flaticon-phone-call"></i><a href="tel:0123456789">+91 93771 10654</a></li>
+<!--                        <li><i class="flaticon-phone-call"></i><a href="tel:0123456789">+91 93771 10654</a></li>-->
                         <li><i class="flaticon-pin"></i>F-18-A, Prathna Pletina, Radhanpur Road, Panchot, Mehsana Railway Colony</li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
                     <ul class="tg-header__top-right list-wrap">
-                        <li><i class="flaticon-envelope"></i><a href="mailto:info@apexa.com">histarsuccess369@gmail.com</a></li>
+                        <li><i class="flaticon-envelope"></i><a href="mailto:info@apexa.com">info@histar.co.in</a></li>
                         <li><i class="flaticon-time"></i>Mon-Fri: 10:00am - 07:00pm</li>
                     </ul>
                 </div>
@@ -35,9 +35,9 @@
                                     <li class="menu-item-has-children">
                                         <a href="#">Services</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/it-software-services.php">IT Software Service</a></li>
-                                            <li><a href="/food-processing-constant.php">Food Processing Constant</a></li>
-                                            <li><a href="/resource-augmentation.php">Resource Augmentation</a></li>
+                                            <li><a href="it-software-services.php">IT Software Service</a></li>
+                                            <li><a href="food-processing-constant.php">Food Processing Consultant</a></li>
+                                            <li><a href="resource-augmentation.php">Resource Augmentation</a></li>
                                         </ul>
                                     </li>
 

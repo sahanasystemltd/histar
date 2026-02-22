@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-    <title>Apexa - Business Consulting HTML Template</title>
+    <title>Histar - Integrated Business Solutions for IT, Food Processing & Workforce Services</title>
     <script src="/assets/js/vendor/color-modes.js"></script>
     <meta name="description" content="Apexa - Business Consulting HTML Template"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
