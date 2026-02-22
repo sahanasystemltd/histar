@@ -18,7 +18,7 @@
         <div class="sidebar__widget sidebar__widget-two">
             <div class="sidebar__contact sidebar__contact-two" data-background="assets/img/services/sidebar_contact_bg.jpg">
                 <h2 class="title">If You Need Any Help Contact With Us</h2>
-                <a href="tel:(079) 49192387" class="btn"><i class="flaticon-phone-call"></i>(079) 49192387</a>
+                <a href="contact.php" class="btn"><i class="flaticon-phone-call"></i>Contact</a>
             </div>
         </div>
         <!--                            <div class="sidebar__widget sidebar__widget-three">-->

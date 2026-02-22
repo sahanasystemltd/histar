@@ -3963,6 +3963,7 @@ textarea {
   margin: 0 -15px;
   gap: 30px 0;
   margin-bottom: 25px;
+  flex-wrap: wrap;
 }
 @media (max-width: 1199.98px) {
   .about-list .list-wrap {

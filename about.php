@@ -36,18 +36,18 @@
                         <div class="about__img-wrap-four">
                             <img src="assets/img/images/inner_about01.jpg" alt="Apexa"/>
                             <img src="assets/img/images/inner_about02.jpg" alt="Apexa"/>
-                            <div class="about__award-box">
-                                <div class="icon">
-                                    <i class="flaticon-trophy"></i>
-                                </div>
-                                <div class="content">
-                                    <h2 class="title">15+</h2>
-                                    <p>
-                                        World Best Agency <br/>
-                                        Award Got
-                                    </p>
-                                </div>
-                            </div>
+<!--                            <div class="about__award-box">-->
+<!--                                <div class="icon">-->
+<!--                                    <i class="flaticon-trophy"></i>-->
+<!--                                </div>-->
+<!--                                <div class="content">-->
+<!--                                    <h2 class="title">15+</h2>-->
+<!--                                    <p>-->
+<!--                                        World Best Agency <br/>-->
+<!--                                        Award Got-->
+<!--                                    </p>-->
+<!--                                </div>-->
+<!--                            </div>-->
                             <div class="shape">
                                 <img src="assets/img/images/inner_about_shape.jpg" alt="Apexa" class="alltuchtopdown dark-opacity"/>
                             </div>
@@ -62,17 +62,17 @@
                             <div class="about__content-inner-three">
                                 <div class="about__list-box">
                                     <ul class="list-wrap">
-                                        <li><i class="flaticon-arrow-button"></i>Medicare Advantage Plans</li>
-                                        <li><i class="flaticon-arrow-button"></i>Analysis & Research</li>
-                                        <li><i class="flaticon-arrow-button"></i>100% Secure Money Back</li>
+                                        <li><i class="flaticon-arrow-button"></i>Driving Enterprise Digital Excellence</li>
+                                        <li><i class="flaticon-arrow-button"></i>Strategic Solutions for Food Industry Excellence</li>
+                                        <li><i class="flaticon-arrow-button"></i>Reliable Staffing Solutions for Operational Excellence</li>
                                     </ul>
                                 </div>
-                                <div class="about__list-img-two">
-                                    <img src="assets/img/images/about_list_img02.png" alt="Apexa"/>
-                                </div>
+<!--                                <div class="about__list-img-two">-->
+<!--                                    <img src="assets/img/images/about_list_img02.png" alt="Apexa"/>-->
+<!--                                </div>-->
                             </div>
-                            <p>We successfully cope with tasks of varying complexity provide longerty term guarantees and regularly master new Practice Area technol ogiesOur portfolio includes dozen</p>
-                            <a href="contact.html" class="btn">Contact With Us</a>
+                            <p>At Histar, we are committed to empowering businesses through technology innovation, industrial expertise, and skilled workforce solutions. Our IT services, food processing consultancy, and resource augmentation capabilities are designed to drive sustainable growth, operational excellence, and long-term value creation. We strive to be a trusted partner in transforming ideas into scalable, impactful solutions.</p>
+                            <a href="contact.php" class="btn">Contact With Us</a>
                         </div>
                     </div>
                 </div>
@@ -132,9 +132,9 @@
                         <div class="choose__content-four">
                             <div class="section-title white-title mb-20">
                                 <span class="sub-title">Why We Are The Best</span>
-                                <h2 class="title">Digital Solutions For Your Online Business</h2>
+                                <h2 class="title">Delivering Excellence Across Multi Domain</h2>
                             </div>
-                            <p>We successfully cope with tasks of varying complexity provide area longerty guarantees and regularly master new Practice Following gies heur.</p>
+                            <p>Histar combines advanced IT solutions, expert food processing consultancy, and reliable resource augmentation to deliver scalable, high-quality outcomes. Our focus on precision and performance ensures sustainable growth for every client.</p>
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -147,7 +147,7 @@
                                         </div>
                                         <div class="choose__list-content-two">
                                             <h4 class="title">Business Solutions</h4>
-                                            <p>Semper egetuis kelly for tellus urna area condition.</p>
+                                            <p>Flexible and future-ready solutions built to adapt as your business expands.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -157,8 +157,8 @@
                                             <i class="flaticon-financial-profit"></i>
                                         </div>
                                         <div class="choose__list-content-two">
-                                            <h4 class="title">Finance Planning</h4>
-                                            <p>Semper egetuis kelly for tellus urna area condition.</p>
+                                            <h4 class="title">Cost-Effective</h4>
+                                            <p>Delivering Excellence Within Budget Frameworks.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -169,7 +169,7 @@
                                         </div>
                                         <div class="choose__list-content-two">
                                             <h4 class="title">Market Analysis</h4>
-                                            <p>Semper egetuis kelly for tellus urna area condition.</p>
+                                            <p>Comprehensive Market Research and Demand Analysis.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -179,8 +179,8 @@
                                             <i class="flaticon-report"></i>
                                         </div>
                                         <div class="choose__list-content-two">
-                                            <h4 class="title">Business Solutions</h4>
-                                            <p>Semper egetuis kelly for tellus urna area condition.</p>
+                                            <h4 class="title">Strategic Approach</h4>
+                                            <p>Structured Planning for Measurable Outcomes</p>
                                         </div>
                                     </div>
                                 </li>

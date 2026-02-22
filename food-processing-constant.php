@@ -56,7 +56,7 @@
                             </div>
                         </div>
                         <div class="services__details-content">
-                            <p>eed a little help from our friends from time to time. Although we offer the one-stop convenience of annery integrated range of legal, financial services under one roof, there are occasions when our clients areaneed specia- list advice beyond the scope of our own expertise. That’s why we’ve developed close working relationships with a number of strategic partner.</p>
+                            <p>We work closely with clients to design efficient production workflows, select appropriate technologies, and implement industry best practices that enhance productivity, ensure safety standards, and improve overall profitability.</p>
                             <div class="services__details-inner-two">
                                 <div class="row gutter-24 align-items-center">
                                     <div class="col-48 order-0 order-md-2">

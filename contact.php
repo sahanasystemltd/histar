@@ -77,7 +77,8 @@
                             <div class="contact__form-wrap">
                                 <h2 class="title">Give Us a Message</h2>
                                 <p>Your email address will not be published. Required fields are marked *</p>
-                                <form id="contact-form" action="assets/mail.php" method="POST">
+                                <form  action="contact.php" method="POST">
+<!--                                    id="contact-form"-->
                                     <div class="form-grp">
                                         <textarea name="message" placeholder="Message"></textarea>
                                     </div>

@@ -56,6 +56,7 @@
                             </div>
                         </div>
                         <div class="services__details-content">
+                            <p>From short-term project support to long-term team extensions, our structured recruitment and deployment process ensures seamless integration, improved productivity, and consistent performance aligned with your business objectives.</p>
                             <div class="services__details-inner-two">
                                 <div class="row gutter-24 align-items-center">
                                     <div class="col-48 order-0 order-md-2">
