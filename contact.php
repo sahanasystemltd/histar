@@ -98,10 +98,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="form-grp checkbox-grp">
-                                        <input type="checkbox" name="checkbox" id="checkbox" />
-                                        <label for="checkbox">Save my name, email, and website in this browser for the next time I comment.</label>
-                                    </div>
+<!--                                    <div class="form-grp checkbox-grp">-->
+<!--                                        <input type="checkbox" name="checkbox" id="checkbox" />-->
+<!--                                        <label for="checkbox">Save my name, email, and website in this browser for the next time I comment.</label>-->
+<!--                                    </div>-->
                                     <button type="submit" class="btn">Submit</button>
                                 </form>
                                 <p class="ajax-response mb-0"></p>
