@@ -20,11 +20,11 @@
                 </div>
             </div>
             <div class="breadcrumb__shape">
-                <img src="assets/img/images/breadcrumb_shape01.png" alt="Apexa" class="dark-opacity"/>
-                <img src="assets/img/images/breadcrumb_shape02.png" alt="Apexa" class="rightToLeft dark-opacity"/>
-                <img src="assets/img/images/breadcrumb_shape03.png" alt="Apexa" class="dark-opacity"/>
-                <img src="assets/img/images/breadcrumb_shape04.png" alt="Apexa" class="dark-opacity"/>
-                <img src="assets/img/images/breadcrumb_shape05.png" alt="Apexa" class="alltuchtopdown dark-opacity"/>
+                <img src="assets/img/images/breadcrumb_shape01.png" alt="Histar" class="dark-opacity"/>
+                <img src="assets/img/images/breadcrumb_shape02.png" alt="Histar" class="rightToLeft dark-opacity"/>
+                <img src="assets/img/images/breadcrumb_shape03.png" alt="Histar" class="dark-opacity"/>
+                <img src="assets/img/images/breadcrumb_shape04.png" alt="Histar" class="dark-opacity"/>
+                <img src="assets/img/images/breadcrumb_shape05.png" alt="Histar" class="alltuchtopdown dark-opacity"/>
             </div>
         </section>
         <!-- breadcrumb-area-end -->
@@ -34,8 +34,8 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="about__img-wrap-four">
-                            <img src="assets/img/images/inner_about01.jpg" alt="Apexa"/>
-                            <img src="assets/img/images/inner_about02.jpg" alt="Apexa"/>
+                            <img src="assets/img/images/inner_about01.jpg" alt="Histar"/>
+                            <img src="assets/img/images/inner_about02.jpg" alt="Histar"/>
 <!--                            <div class="about__award-box">-->
 <!--                                <div class="icon">-->
 <!--                                    <i class="flaticon-trophy"></i>-->
@@ -49,7 +49,7 @@
 <!--                                </div>-->
 <!--                            </div>-->
                             <div class="shape">
-                                <img src="assets/img/images/inner_about_shape.jpg" alt="Apexa" class="alltuchtopdown dark-opacity"/>
+                                <img src="assets/img/images/inner_about_shape.jpg" alt="Histar" class="alltuchtopdown dark-opacity"/>
                             </div>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                                     </ul>
                                 </div>
 <!--                                <div class="about__list-img-two">-->
-<!--                                    <img src="assets/img/images/about_list_img02.png" alt="Apexa"/>-->
+<!--                                    <img src="assets/img/images/about_list_img02.png" alt="Histar"/>-->
 <!--                                </div>-->
                             </div>
                             <p>At Histar, we are committed to empowering businesses through technology innovation, industrial expertise, and skilled workforce solutions. Our IT services, food processing consultancy, and resource augmentation capabilities are designed to drive sustainable growth, operational excellence, and long-term value creation. We strive to be a trusted partner in transforming ideas into scalable, impactful solutions.</p>
@@ -86,37 +86,37 @@
 <!--                    <div class="swiper-wrapper">-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img01.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img01.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img02.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img02.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img03.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img03.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img04.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img04.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img05.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img05.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img06.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img06.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="swiper-slide">-->
 <!--                            <div class="brand-item">-->
-<!--                                <img src="assets/img/brand/brand_img03.png" alt="Apexa"/>-->
+<!--                                <img src="assets/img/brand/brand_img03.png" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                    </div>-->
@@ -190,8 +190,8 @@
                 </div>
             </div>
             <div class="choose__shape-wrap-four">
-                <img src="assets/img/images/inner_choose_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400"/>
-                <img src="assets/img/images/inner_choose_shape02.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400"/>
+                <img src="assets/img/images/inner_choose_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400"/>
+                <img src="assets/img/images/inner_choose_shape02.png" alt="Histar" data-aos="fade-left" data-aos-delay="400"/>
             </div>
         </section>
         <!-- choose-area-end -->
@@ -258,9 +258,9 @@
 <!--                </div>-->
 <!--            </div>-->
 <!--            <div class="counter-shape-wrap">-->
-<!--                <img class="dark-opacity" src="assets/img/images/counter_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400"/>-->
-<!--                <img src="assets/img/images/counter_shape02.png" alt="Apexa" data-parallax='{"x" : 100 , "y" : -100 }'/>-->
-<!--                <img class="dark-opacity" src="assets/img/images/counter_shape03.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400"/>-->
+<!--                <img class="dark-opacity" src="assets/img/images/counter_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400"/>-->
+<!--                <img src="assets/img/images/counter_shape02.png" alt="Histar" data-parallax='{"x" : 100 , "y" : -100 }'/>-->
+<!--                <img class="dark-opacity" src="assets/img/images/counter_shape03.png" alt="Histar" data-aos="fade-left" data-aos-delay="400"/>-->
 <!--            </div>-->
 <!--        </section>-->
         <!-- counter-area-end -->
@@ -282,7 +282,7 @@
 <!--                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                        <div class="team__item-four shine-animate-item">-->
 <!--                            <div class="team__thumb-four shine-animate">-->
-<!--                                <img src="assets/img/team/h4_team_img01.jpg" alt="Apexa"/>-->
+<!--                                <img src="assets/img/team/h4_team_img01.jpg" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                            <div class="team__content-four">-->
 <!--                                <h2 class="title"><a href="team-details.html">Floyd Miles</a></h2>-->
@@ -312,7 +312,7 @@
 <!--                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                        <div class="team__item-four shine-animate-item">-->
 <!--                            <div class="team__thumb-four shine-animate">-->
-<!--                                <img src="assets/img/team/h4_team_img02.jpg" alt="Apexa"/>-->
+<!--                                <img src="assets/img/team/h4_team_img02.jpg" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                            <div class="team__content-four">-->
 <!--                                <h2 class="title"><a href="team-details.html">Ralph Edwards</a></h2>-->
@@ -342,7 +342,7 @@
 <!--                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                        <div class="team__item-four shine-animate-item">-->
 <!--                            <div class="team__thumb-four shine-animate">-->
-<!--                                <img src="assets/img/team/h4_team_img03.jpg" alt="Apexa"/>-->
+<!--                                <img src="assets/img/team/h4_team_img03.jpg" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                            <div class="team__content-four">-->
 <!--                                <h2 class="title"><a href="team-details.html">Eleanor Pena</a></h2>-->
@@ -372,7 +372,7 @@
 <!--                    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                        <div class="team__item-four shine-animate-item">-->
 <!--                            <div class="team__thumb-four shine-animate">-->
-<!--                                <img src="assets/img/team/h4_team_img04.jpg" alt="Apexa"/>-->
+<!--                                <img src="assets/img/team/h4_team_img04.jpg" alt="Histar"/>-->
 <!--                            </div>-->
 <!--                            <div class="team__content-four">-->
 <!--                                <h2 class="title"><a href="team-details.html">Jone Cooper</a></h2>-->

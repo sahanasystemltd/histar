@@ -22,11 +22,11 @@
             </div>
         </div>
         <div class="breadcrumb__shape">
-            <img src="assets/img/images/breadcrumb_shape01.png" alt="Apexa" class="dark-opacity" />
-            <img src="assets/img/images/breadcrumb_shape02.png" alt="Apexa" class="rightToLeft dark-opacity" />
-            <img src="assets/img/images/breadcrumb_shape03.png" alt="Apexa" class="dark-opacity" />
-            <img src="assets/img/images/breadcrumb_shape04.png" alt="Apexa" class="dark-opacity" />
-            <img src="assets/img/images/breadcrumb_shape05.png" alt="Apexa" class="alltuchtopdown dark-opacity" />
+            <img src="assets/img/images/breadcrumb_shape01.png" alt="Histar" class="dark-opacity" />
+            <img src="assets/img/images/breadcrumb_shape02.png" alt="Histar" class="rightToLeft dark-opacity" />
+            <img src="assets/img/images/breadcrumb_shape03.png" alt="Histar" class="dark-opacity" />
+            <img src="assets/img/images/breadcrumb_shape04.png" alt="Histar" class="dark-opacity" />
+            <img src="assets/img/images/breadcrumb_shape05.png" alt="Histar" class="alltuchtopdown dark-opacity" />
         </div>
     </section>
     <!-- breadcrumb-area-end -->
@@ -61,7 +61,7 @@
                                 <div class="row gutter-24 align-items-center">
                                     <div class="col-48 order-0 order-md-2">
                                         <div class="services__details-inner-img">
-                                            <img src="assets/img/augmentation.png" alt="Apexa" />
+                                            <img src="assets/img/augmentation.png" alt="Histar" />
                                         </div>
                                     </div>
                                     <div class="col-52">

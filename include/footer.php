@@ -85,22 +85,22 @@
 <!--                                    <div class="footer-instagram">-->
 <!--                                        <ul class="list-wrap">-->
 <!--                                            <li>-->
-<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta01.jpg" alt="Apexa" /></a>-->
+<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta01.jpg" alt="Histar" /></a>-->
 <!--                                            </li>-->
 <!--                                            <li>-->
-<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta02.jpg" alt="Apexa" /></a>-->
+<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta02.jpg" alt="Histar" /></a>-->
 <!--                                            </li>-->
 <!--                                            <li>-->
-<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta03.jpg" alt="Apexa" /></a>-->
+<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta03.jpg" alt="Histar" /></a>-->
 <!--                                            </li>-->
 <!--                                            <li>-->
-<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta04.jpg" alt="Apexa" /></a>-->
+<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta04.jpg" alt="Histar" /></a>-->
 <!--                                            </li>-->
 <!--                                            <li>-->
-<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta05.jpg" alt="Apexa" /></a>-->
+<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta05.jpg" alt="Histar" /></a>-->
 <!--                                            </li>-->
 <!--                                            <li>-->
-<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta06.jpg" alt="Apexa" /></a>-->
+<!--                                                <a href="javascript:void(0)"><img src="assets/img/images/footer_insta06.jpg" alt="Histar" /></a>-->
 <!--                                            </li>-->
 <!--                                        </ul>-->
 <!--                                    </div>-->
@@ -131,9 +131,9 @@
                     </div>
                 </div>
                 <div class="footer-shape">
-                    <img class="dark-opacity" src="assets/img/images/footer_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400" />
-                    <img class="dark-opacity" src="assets/img/images/footer_shape02.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400" />
-                    <img src="assets/img/images/footer_shape03.png" alt="Apexa" data-parallax='{"x" : 100 , "y" : -100 }' />
+                    <img class="dark-opacity" src="assets/img/images/footer_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400" />
+                    <img class="dark-opacity" src="assets/img/images/footer_shape02.png" alt="Histar" data-aos="fade-left" data-aos-delay="400" />
+                    <img src="assets/img/images/footer_shape03.png" alt="Histar" data-parallax='{"x" : 100 , "y" : -100 }' />
                 </div>
             </div>
         </footer>

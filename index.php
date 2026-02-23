@@ -15,8 +15,8 @@
                                 <a href="about.php" class="btn" data-aos="fade-up" data-aos-delay="600">Read More</a>
                             </div>
                             <div class="banner-shape">
-                                <img src="assets/img/banner/banner_shape01.png" alt="Apexa" class="rightToLeft" />
-                                <img src="assets/img/banner/banner_shape02.png" alt="Apexa" class="ribbonRotate" />
+                                <img src="assets/img/banner/banner_shape01.png" alt="Histar" class="rightToLeft" />
+                                <img src="assets/img/banner/banner_shape02.png" alt="Histar" class="ribbonRotate" />
                             </div>
                         </div>
                     </div>
@@ -55,37 +55,37 @@
 <!--                        <div class="swiper-wrapper">-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img01.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img01.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img02.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img02.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img03.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img03.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img04.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img04.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img05.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img05.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img06.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img06.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                            <div class="swiper-slide">-->
 <!--                                <div class="brand-item">-->
-<!--                                    <img src="assets/img/brand/brand_img03.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/brand/brand_img03.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                        </div>-->
@@ -100,10 +100,10 @@
                         <div class="col-lg-6">
                             <div class="about-img-wrap">
                                 <div class="mask-img-wrap">
-                                    <img src="assets/img/images/about_img01.jpg" alt="Apexa" />
+                                    <img src="assets/img/images/about_img01.jpg" alt="Histar" />
                                 </div>
                                 <div class="shape">
-                                    <img src="assets/img/images/about_shape01.png" alt="Apexa" />
+                                    <img src="assets/img/images/about_shape01.png" alt="Histar" />
                                 </div>
                                 <div class="experience-year">
                                     <div class="icon">
@@ -161,15 +161,15 @@
                                     <a href="about.php" class="btn btn-two">Read More</a>
                                 </div>
                                 <div class="about-shape-wrap">
-                                    <img src="assets/img/images/about_shape03.png" alt="Apexa" />
-                                    <img src="assets/img/images/about_shape04.png" alt="Apexa" class="ribbonRotate" />
+                                    <img src="assets/img/images/about_shape03.png" alt="Histar" />
+                                    <img src="assets/img/images/about_shape04.png" alt="Histar" class="ribbonRotate" />
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="about-left-shape dark-opacity">
-                    <img class="dark-opacity" src="assets/img/images/about_shape02.png" alt="Apexa" />
+                    <img class="dark-opacity" src="assets/img/images/about_shape02.png" alt="Histar" />
                 </div>
             </section>
             <!-- about-area-end -->
@@ -190,7 +190,7 @@
                             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
                                 <div class="services-item shine-animate-item">
                                     <div class="services-thumb">
-                                        <a href="it-software-services.php" class="shine-animate"><img src="assets/img/services/services_img01.jpg" alt="Apexa" /></a>
+                                        <a href="it-software-services.php" class="shine-animate"><img src="assets/img/services/services_img01.jpg" alt="Histar" /></a>
                                     </div>
                                     <div class="services-content">
                                         <div class="icon">
@@ -205,7 +205,7 @@
                             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
                                 <div class="services-item shine-animate-item">
                                     <div class="services-thumb">
-                                        <a href="food-processing-constant.php" class="shine-animate"><img src="assets/img/services/services_img03.jpg" alt="Apexa" /></a>
+                                        <a href="food-processing-constant.php" class="shine-animate"><img src="assets/img/services/services_img03.jpg" alt="Histar" /></a>
                                     </div>
                                     <div class="services-content">
                                         <div class="icon">
@@ -220,7 +220,7 @@
                             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
                                 <div class="services-item shine-animate-item">
                                     <div class="services-thumb">
-                                        <a href="resource-augmentation.php" class="shine-animate"><img src="assets/img/services/services_img04.jpg" alt="Apexa" /></a>
+                                        <a href="resource-augmentation.php" class="shine-animate"><img src="assets/img/services/services_img04.jpg" alt="Histar" /></a>
                                     </div>
                                     <div class="services-content">
                                         <div class="icon">
@@ -247,9 +247,9 @@
 <!--                    <div class="row align-items-center">-->
 <!--                        <div class="col-lg-6 order-0 order-lg-2">-->
 <!--                            <div class="choose-img-wrap">-->
-<!--                                <img src="assets/img/images/choose_img01.jpg" alt="Apexa" />-->
-<!--                                <img src="assets/img/images/choose_img02.jpg" alt="Apexa" data-parallax='{"x" : 50 }' />-->
-<!--                                <img src="assets/img/images/choose_img_shape.png" alt="Apexa" class="alltuchtopdown dark-opacity" />-->
+<!--                                <img src="assets/img/images/choose_img01.jpg" alt="Histar" />-->
+<!--                                <img src="assets/img/images/choose_img02.jpg" alt="Histar" data-parallax='{"x" : 50 }' />-->
+<!--                                <img src="assets/img/images/choose_img_shape.png" alt="Histar" class="alltuchtopdown dark-opacity" />-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                        <div class="col-lg-6">-->
@@ -289,8 +289,8 @@
 <!--                    </div>-->
 <!--                </div>-->
 <!--                <div class="choose-shape-wrap">-->
-<!--                    <img src="assets/img/images/choose_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400" />-->
-<!--                    <img class="dark-opacity" src="assets/img/images/choose_shape02.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/choose_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400" />-->
+<!--                    <img class="dark-opacity" src="assets/img/images/choose_shape02.png" alt="Histar" data-aos="fade-left" data-aos-delay="400" />-->
 <!--                </div>-->
 <!--            </section>-->
             <!-- choose-area-end -->
@@ -357,9 +357,9 @@
 <!--                    </div>-->
 <!--                </div>-->
 <!--                <div class="counter-shape-wrap">-->
-<!--                    <img class="dark-opacity" src="assets/img/images/counter_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400" />-->
-<!--                    <img src="assets/img/images/counter_shape02.png" alt="Apexa" data-parallax='{"x" : 100 , "y" : -100 }' />-->
-<!--                    <img class="dark-opacity" src="assets/img/images/counter_shape03.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400" />-->
+<!--                    <img class="dark-opacity" src="assets/img/images/counter_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/counter_shape02.png" alt="Histar" data-parallax='{"x" : 100 , "y" : -100 }' />-->
+<!--                    <img class="dark-opacity" src="assets/img/images/counter_shape03.png" alt="Histar" data-aos="fade-left" data-aos-delay="400" />-->
 <!--                </div>-->
 <!--            </section>-->
             <!-- counter-area-end -->
@@ -381,7 +381,7 @@
 <!--                            <div class="col-xl-3 col-md-6">-->
 <!--                                <div class="project-item">-->
 <!--                                    <div class="project-thumb">-->
-<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img01.jpg" alt="Apexa" /></a>-->
+<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img01.jpg" alt="Histar" /></a>-->
 <!--                                    </div>-->
 <!--                                    <div class="project-content">-->
 <!--                                        <div class="left-side-content">-->
@@ -402,7 +402,7 @@
 <!--                            <div class="col-xl-3 col-md-6">-->
 <!--                                <div class="project-item">-->
 <!--                                    <div class="project-thumb">-->
-<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img02.jpg" alt="Apexa" /></a>-->
+<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img02.jpg" alt="Histar" /></a>-->
 <!--                                    </div>-->
 <!--                                    <div class="project-content">-->
 <!--                                        <div class="left-side-content">-->
@@ -423,7 +423,7 @@
 <!--                            <div class="col-xl-3 col-md-6">-->
 <!--                                <div class="project-item">-->
 <!--                                    <div class="project-thumb">-->
-<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img03.jpg" alt="Apexa" /></a>-->
+<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img03.jpg" alt="Histar" /></a>-->
 <!--                                    </div>-->
 <!--                                    <div class="project-content">-->
 <!--                                        <div class="left-side-content">-->
@@ -444,7 +444,7 @@
 <!--                            <div class="col-xl-3 col-md-6">-->
 <!--                                <div class="project-item">-->
 <!--                                    <div class="project-thumb">-->
-<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img04.jpg" alt="Apexa" /></a>-->
+<!--                                        <a href="project-details.html"><img src="assets/img/project/project_img04.jpg" alt="Histar" /></a>-->
 <!--                                    </div>-->
 <!--                                    <div class="project-content">-->
 <!--                                        <div class="left-side-content">-->
@@ -477,8 +477,8 @@
 <!--                    </div>-->
 <!--                </div>-->
 <!--                <div class="project-shape-wrap">-->
-<!--                    <img class="dark-opacity" src="assets/img/project/project_shape01.png" alt="Apexa" class="alltuchtopdown" />-->
-<!--                    <img src="assets/img/project/project_shape02.png" alt="Apexa" class="rotateme" />-->
+<!--                    <img class="dark-opacity" src="assets/img/project/project_shape01.png" alt="Histar" class="alltuchtopdown" />-->
+<!--                    <img src="assets/img/project/project_shape02.png" alt="Histar" class="rotateme" />-->
 <!--                </div>-->
 <!--            </section>-->
             <!-- project-area-end -->
@@ -506,8 +506,8 @@
 <!--                    </div>-->
 <!--                </div>-->
 <!--                <div class="request-shape">-->
-<!--                    <img src="assets/img/images/request_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400" />-->
-<!--                    <img src="assets/img/images/request_shape02.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/request_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/request_shape02.png" alt="Histar" data-aos="fade-left" data-aos-delay="400" />-->
 <!--                </div>-->
 <!--            </section>-->
             <!-- request-area-end -->
@@ -535,7 +535,7 @@
 <!--                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                                <div class="team-item">-->
 <!--                                    <div class="team-thumb">-->
-<!--                                        <img src="assets/img/team/team_img01.jpg" alt="Apexa" />-->
+<!--                                        <img src="assets/img/team/team_img01.jpg" alt="Histar" />-->
 <!--                                        <div class="team-social">-->
 <!--                                            <div class="social-toggle-icon">-->
 <!--                                                <i class="fas fa-share-alt"></i>-->
@@ -565,7 +565,7 @@
 <!--                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                                <div class="team-item">-->
 <!--                                    <div class="team-thumb">-->
-<!--                                        <img src="assets/img/team/team_img02.jpg" alt="Apexa" />-->
+<!--                                        <img src="assets/img/team/team_img02.jpg" alt="Histar" />-->
 <!--                                        <div class="team-social">-->
 <!--                                            <div class="social-toggle-icon">-->
 <!--                                                <i class="fas fa-share-alt"></i>-->
@@ -595,7 +595,7 @@
 <!--                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                                <div class="team-item">-->
 <!--                                    <div class="team-thumb">-->
-<!--                                        <img src="assets/img/team/team_img03.jpg" alt="Apexa" />-->
+<!--                                        <img src="assets/img/team/team_img03.jpg" alt="Histar" />-->
 <!--                                        <div class="team-social">-->
 <!--                                            <div class="social-toggle-icon">-->
 <!--                                                <i class="fas fa-share-alt"></i>-->
@@ -625,7 +625,7 @@
 <!--                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">-->
 <!--                                <div class="team-item">-->
 <!--                                    <div class="team-thumb">-->
-<!--                                        <img src="assets/img/team/team_img04.jpg" alt="Apexa" />-->
+<!--                                        <img src="assets/img/team/team_img04.jpg" alt="Histar" />-->
 <!--                                        <div class="team-social">-->
 <!--                                            <div class="social-toggle-icon">-->
 <!--                                                <i class="fas fa-share-alt"></i>-->
@@ -677,10 +677,10 @@
 <!--                                    </div>-->
 <!--                                </div>-->
 <!--                                <div class="consulting-img shine-animate">-->
-<!--                                    <img src="assets/img/images/consulting_img.jpg" alt="Apexa" />-->
+<!--                                    <img src="assets/img/images/consulting_img.jpg" alt="Histar" />-->
 <!--                                </div>-->
 <!--                                <div class="consulting-shape">-->
-<!--                                    <img src="assets/img/images/consulting_shape.png" alt="Apexa" />-->
+<!--                                    <img src="assets/img/images/consulting_shape.png" alt="Histar" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                        </div>-->
@@ -699,7 +699,7 @@
 <!--                                        <div class="testimonial-item">-->
 <!--                                            <div class="testimonial-info">-->
 <!--                                                <h4 class="title">Mr.Robey Alexa</h4>-->
-<!--                                                <span>CEO, Apexa Agency</span>-->
+<!--                                                <span>CEO, Histar Agency</span>-->
 <!--                                            </div>-->
 <!--                                            <div class="testimonial__rating">-->
 <!--                                                <i class="fas fa-star"></i>-->
@@ -718,7 +718,7 @@
 <!--                                        <div class="testimonial-item">-->
 <!--                                            <div class="testimonial-info">-->
 <!--                                                <h4 class="title">Mr.Robey Alexa</h4>-->
-<!--                                                <span>CEO, Apexa Agency</span>-->
+<!--                                                <span>CEO, Histar Agency</span>-->
 <!--                                            </div>-->
 <!--                                            <div class="testimonial__rating">-->
 <!--                                                <i class="fas fa-star"></i>-->
@@ -737,7 +737,7 @@
 <!--                                        <div class="testimonial-item">-->
 <!--                                            <div class="testimonial-info">-->
 <!--                                                <h4 class="title">Mr.Robey Alexa</h4>-->
-<!--                                                <span>CEO, Apexa Agency</span>-->
+<!--                                                <span>CEO, Histar Agency</span>-->
 <!--                                            </div>-->
 <!--                                            <div class="testimonial__rating">-->
 <!--                                                <i class="fas fa-star"></i>-->
@@ -756,7 +756,7 @@
 <!--                                        <div class="testimonial-item">-->
 <!--                                            <div class="testimonial-info">-->
 <!--                                                <h4 class="title">Mr.Robey Alexa</h4>-->
-<!--                                                <span>CEO, Apexa Agency</span>-->
+<!--                                                <span>CEO, Histar Agency</span>-->
 <!--                                            </div>-->
 <!--                                            <div class="testimonial__rating">-->
 <!--                                                <i class="fas fa-star"></i>-->
@@ -777,16 +777,16 @@
 <!--                                <div class="swiper testimonial-nav">-->
 <!--                                    <div class="swiper-wrapper">-->
 <!--                                        <div class="swiper-slide">-->
-<!--                                            <button><img src="assets/img/images/testi_avatar01.png" alt="Apexa" /></button>-->
+<!--                                            <button><img src="assets/img/images/testi_avatar01.png" alt="Histar" /></button>-->
 <!--                                        </div>-->
 <!--                                        <div class="swiper-slide">-->
-<!--                                            <button><img src="assets/img/images/testi_avatar02.png" alt="Apexa" /></button>-->
+<!--                                            <button><img src="assets/img/images/testi_avatar02.png" alt="Histar" /></button>-->
 <!--                                        </div>-->
 <!--                                        <div class="swiper-slide">-->
-<!--                                            <button><img src="assets/img/images/testi_avatar03.png" alt="Apexa" /></button>-->
+<!--                                            <button><img src="assets/img/images/testi_avatar03.png" alt="Histar" /></button>-->
 <!--                                        </div>-->
 <!--                                        <div class="swiper-slide">-->
-<!--                                            <button><img src="assets/img/images/testi_avatar04.png" alt="Apexa" /></button>-->
+<!--                                            <button><img src="assets/img/images/testi_avatar04.png" alt="Histar" /></button>-->
 <!--                                        </div>-->
 <!--                                    </div>-->
 <!--                                </div>-->
@@ -794,20 +794,20 @@
 <!--                        </div>-->
 <!--                        <div class="col-lg-6 col-md-8">-->
 <!--                            <div class="testimonial-img-wrap">-->
-<!--                                <img src="assets/img/images/testimonial_img.png" alt="Apexa" />-->
+<!--                                <img src="assets/img/images/testimonial_img.png" alt="Histar" />-->
 <!--                                <div class="img-shape">-->
-<!--                                    <img src="assets/img/images/testimonial_shape01.png" alt="Apexa" />-->
-<!--                                    <img src="assets/img/images/testimonial_shape02.png" alt="Apexa" class="alltuchtopdown" />-->
-<!--                                    <img src="assets/img/images/testimonial_shape03.png" alt="Apexa" data-parallax='{"y" : 80 }' />-->
-<!--                                    <img src="assets/img/images/testimonial_shape04.png" alt="Apexa" class="rightToLeft" />-->
+<!--                                    <img src="assets/img/images/testimonial_shape01.png" alt="Histar" />-->
+<!--                                    <img src="assets/img/images/testimonial_shape02.png" alt="Histar" class="alltuchtopdown" />-->
+<!--                                    <img src="assets/img/images/testimonial_shape03.png" alt="Histar" data-parallax='{"y" : 80 }' />-->
+<!--                                    <img src="assets/img/images/testimonial_shape04.png" alt="Histar" class="rightToLeft" />-->
 <!--                                </div>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
 <!--                <div class="testimonial-shape-wrap">-->
-<!--                    <img src="assets/img/images/testimonial_shape05.png" alt="Apexa" data-aos="fade-up" data-aos-delay="400" />-->
-<!--                    <img class="dark-opacity" src="assets/img/images/testimonial_shape06.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/testimonial_shape05.png" alt="Histar" data-aos="fade-up" data-aos-delay="400" />-->
+<!--                    <img class="dark-opacity" src="assets/img/images/testimonial_shape06.png" alt="Histar" data-aos="fade-left" data-aos-delay="400" />-->
 <!--                </div>-->
 <!--            </section>-->
             <!-- testimonial-area-end -->
@@ -827,14 +827,14 @@
 <!--                        <div class="col-xl-4 col-lg-6 col-md-10">-->
 <!--                            <div class="blog-post-item shine-animate-item">-->
 <!--                                <div class="blog-post-thumb">-->
-<!--                                    <a href="blog-details.html" class="shine-animate"><img src="assets/img/blog/blog_post01.jpg" alt="Apexa" /></a>-->
+<!--                                    <a href="blog-details.html" class="shine-animate"><img src="assets/img/blog/blog_post01.jpg" alt="Histar" /></a>-->
 <!--                                    <a href="blog.html" class="post-tag">Business</a>-->
 <!--                                </div>-->
 <!--                                <div class="blog-post-content">-->
 <!--                                    <h2 class="title"><a href="blog-details.html">Marketing your are business downturn now a days</a></h2>-->
 <!--                                    <div class="blog-avatar">-->
 <!--                                        <div class="avatar-thumb">-->
-<!--                                            <img src="assets/img/blog/blog_avatar01.png" alt="Apexa" />-->
+<!--                                            <img src="assets/img/blog/blog_avatar01.png" alt="Histar" />-->
 <!--                                        </div>-->
 <!--                                        <div class="avatar-content">-->
 <!--                                            <p>By <a href="blog-details.html">Doman Smith</a></p>-->
@@ -854,14 +854,14 @@
 <!--                        <div class="col-xl-4 col-lg-6 col-md-10">-->
 <!--                            <div class="blog-post-item shine-animate-item">-->
 <!--                                <div class="blog-post-thumb">-->
-<!--                                    <a href="blog-details.html" class="shine-animate"><img src="assets/img/blog/blog_post02.jpg" alt="Apexa" /></a>-->
+<!--                                    <a href="blog-details.html" class="shine-animate"><img src="assets/img/blog/blog_post02.jpg" alt="Histar" /></a>-->
 <!--                                    <a href="blog.html" class="post-tag">Audit</a>-->
 <!--                                </div>-->
 <!--                                <div class="blog-post-content">-->
 <!--                                    <h2 class="title"><a href="blog-details.html">Marketing your are business downturn now a days</a></h2>-->
 <!--                                    <div class="blog-avatar">-->
 <!--                                        <div class="avatar-thumb">-->
-<!--                                            <img src="assets/img/blog/blog_avatar01.png" alt="Apexa" />-->
+<!--                                            <img src="assets/img/blog/blog_avatar01.png" alt="Histar" />-->
 <!--                                        </div>-->
 <!--                                        <div class="avatar-content">-->
 <!--                                            <p>By <a href="blog-details.html">Doman Smith</a></p>-->
@@ -881,14 +881,14 @@
 <!--                        <div class="col-xl-4 col-lg-6 col-md-10">-->
 <!--                            <div class="blog-post-item shine-animate-item">-->
 <!--                                <div class="blog-post-thumb">-->
-<!--                                    <a href="blog-details.html" class="shine-animate"><img src="assets/img/blog/blog_post03.jpg" alt="Apexa" /></a>-->
+<!--                                    <a href="blog-details.html" class="shine-animate"><img src="assets/img/blog/blog_post03.jpg" alt="Histar" /></a>-->
 <!--                                    <a href="blog.html" class="post-tag">Investment</a>-->
 <!--                                </div>-->
 <!--                                <div class="blog-post-content">-->
 <!--                                    <h2 class="title"><a href="blog-details.html">Marketing your are business downturn now a days</a></h2>-->
 <!--                                    <div class="blog-avatar">-->
 <!--                                        <div class="avatar-thumb">-->
-<!--                                            <img src="assets/img/blog/blog_avatar01.png" alt="Apexa" />-->
+<!--                                            <img src="assets/img/blog/blog_avatar01.png" alt="Histar" />-->
 <!--                                        </div>-->
 <!--                                        <div class="avatar-content">-->
 <!--                                            <p>By <a href="blog-details.html">Doman Smith</a></p>-->
@@ -908,8 +908,8 @@
 <!--                    </div>-->
 <!--                </div>-->
 <!--                <div class="blog-shape-wrap">-->
-<!--                    <img src="assets/img/images/blog_shape01.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400" />-->
-<!--                    <img src="assets/img/images/blog_shape02.png" alt="Apexa" data-aos="fade-left" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/blog_shape01.png" alt="Histar" data-aos="fade-right" data-aos-delay="400" />-->
+<!--                    <img src="assets/img/images/blog_shape02.png" alt="Histar" data-aos="fade-left" data-aos-delay="400" />-->
 <!--                </div>-->
 <!--            </section>-->
             <!-- blog-post-area-end -->

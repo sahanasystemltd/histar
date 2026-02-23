@@ -12,7 +12,7 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="tg-header__top-right list-wrap">
-                        <li><i class="flaticon-envelope"></i><a href="mailto:info@apexa.com">info@histar.co.in</a></li>
+                        <li><i class="flaticon-envelope"></i><a href="mailto:info@histar.co.in">info@histar.co.in</a></li>
                         <li><i class="flaticon-time"></i>Mon-Fri: 10:00am - 07:00pm</li>
                     </ul>
                 </div>

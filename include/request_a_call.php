@@ -8,7 +8,7 @@
                     </div>
                     <p>Ever find yourself staring at your computer screen a good consulting slogan to come to mind? Oftentimes.</p>
                     <div class="shape">
-                        <img class="dark-opacity" src="assets/img/images/call_back_shape.png" alt="Apexa" data-aos="fade-right" data-aos-delay="400" />
+                        <img class="dark-opacity" src="assets/img/images/call_back_shape.png" alt="Histar" data-aos="fade-right" data-aos-delay="400" />
                     </div>
                 </div>
             </div>
